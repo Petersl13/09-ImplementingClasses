@@ -3,8 +3,8 @@ A simple   Point   class.
 NOTE: This is NOT rosegraphics -- it is your OWN Point class.
 
 Authors: David Mutchler, Vibha Alangar, Dave Fisher, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Lara Peters.
+"""  # done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 def main():
@@ -27,11 +27,11 @@ def main():
 ###############################################################################
 
 # -----------------------------------------------------------------------------
-# TODO: 2.          With your instructor, READ THE INSTRUCTIONS in
-# TODO (continued)  in file  m0_INSTRUCTIONS.txt, asking questions as needed.
+# done: 2.          With your instructor, READ THE INSTRUCTIONS in
+# done (continued)  in file  m0_INSTRUCTIONS.txt, asking questions as needed.
 #
-# TODO (continued): Then implement a class called   Point that has NO METHODS
-# TODO (continued)  yet, just the lines that start the definition of any class:
+# done (continued): Then implement a class called   Point that has NO METHODS
+# done (continued)  yet, just the lines that start the definition of any class:
 #
 #      class NAME_OF_CLASS(object):
 #          """ Brief description of what objects of the class 'are'."""
@@ -144,7 +144,7 @@ def run_test_init():
         print('Actual for p2:  ', p2.x, p2.y)
     """
     # -------------------------------------------------------------------------
-    # TODO: 3.
+    # done: 3.
     #   a. Read the above specification of the   __init__   method.
     #        Do NOT proceed until you understand WHAT it should do
     #        (but not necessarily HOW it will do it).
@@ -233,7 +233,7 @@ def run_test_repr():
         print('Actual for p2:  ', p2)
     """
     # -------------------------------------------------------------------------
-    # TODO: 4.  Follow the same instructions as in _TODO_ 3 above,
+    # done: 4.  Follow the same instructions as in _TODO_ 3 above,
     #           but for the  __repr__  method specified above.
     # -------------------------------------------------------------------------
     print()
@@ -311,7 +311,7 @@ def run_test_clone():
         print('Actual for p3:  ', p3)
    """
     # -------------------------------------------------------------------------
-    # TODO: 5.  Follow the same instructions as in _TODO_ 3 above,
+    # done: 5.  Follow the same instructions as in _TODO_ 3 above,
     #           but for the  clone  method specified above.
     # -------------------------------------------------------------------------
     print()
@@ -407,7 +407,7 @@ def run_test_move_to():
             print('** value; in fact, it returned:', check_has_no_return)
     """
     # -------------------------------------------------------------------------
-    # TODO: 6.  Follow the same instructions as in _TODO_ 3 above,
+    # done: 6.  Follow the same instructions as in _TODO_ 3 above,
     #           but for the  move_to  method specified above.
     # -------------------------------------------------------------------------
     print()
@@ -498,7 +498,7 @@ def run_test_move_by():
             print('** value; in fact, it returned:', check_has_no_return)
         """
     # -------------------------------------------------------------------------
-    # TODO: 7.  Follow the same instructions as in _TODO_ 3 above,
+    # done: 7.  Follow the same instructions as in _TODO_ 3 above,
     #           but for the  move_by  method specified above.
     # -------------------------------------------------------------------------
     print()
